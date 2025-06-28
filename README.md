@@ -2,6 +2,8 @@
 
 I’m a backend developer who enjoys building simple, useful applications with **Java** and **Spring Boot**. 🚀
 
+Portfolio website: ➡️ [https://bhavanilakshmi-portfolio.netlify.app/]
+
 Right now, I’m focusing on:
 - ✨ Writing clean and simple REST APIs
 - 🔨 Learning by building real projects
